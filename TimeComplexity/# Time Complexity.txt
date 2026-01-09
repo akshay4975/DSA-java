@@ -1,0 +1,56 @@
+# Time Complexity 
+
+This folder contains my learning and practice related to **Time Complexity** as part of my DSA journey using **Java**.
+
+Time Complexity helps us analyze how efficient an algorithm is based on the input size.
+
+---
+
+## Topics Covered
+
+- What is Time Complexity?
+- Why Time Complexity is important
+- Best, Average, and Worst Case
+- Big-O Notation
+- Common Time Complexities:
+  - O(1) – Constant Time
+  - O(n) – Linear Time
+  - O(n²) – Quadratic Time
+  - O(log n) – Logarithmic Time
+- Time Complexity of loops
+- Time Complexity of nested loops
+- Basic analysis of array operations
+
+---
+
+## Key Learnings
+
+- Time Complexity focuses on **growth of operations**, not actual execution time
+- Nested loops significantly increase complexity
+- Choosing the right algorithm matters more than hardware speed
+- Optimization often means reducing unnecessary loops
+
+---
+
+##  Files Included
+
+- `Notes.md` – Conceptual explanation and examples  
+- Java programs demonstrating time complexity analysis (if added)
+
+---
+
+##  Goal
+
+- Build a strong foundation for DSA
+- Analyze code efficiency before implementation
+- Prepare for coding interviews and competitive programming
+
+---
+
+##  Language Used
+
+- Java
+
+---
+
+*This is the first step in my DSA journey. More optimized and advanced problems will be added as I progress.*
